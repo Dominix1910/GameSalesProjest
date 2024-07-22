@@ -34,11 +34,17 @@ Added new columns to transform Sales into milions.
 ![alt text](<power bi clear.png>)
 
 Questions for this Dataset:
+
 1.) Which Title sold the most Worldwide?
+
 2.) Which year had the highest Sales?
+
 3.) Do any consoles seem to specialize in a particular genre?
+
 4.) What titles are popular in one region but flop in another?
+
 5.) Which region leads with game sales
+
 6.) What genre gained most sales?
 
 For first question I used MySQL
