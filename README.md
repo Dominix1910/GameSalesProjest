@@ -1,4 +1,4 @@
-This is Portfolio projest    
+This is a Portfolio project  (Work in progress)  
 
 Author: Dominik Scibor
 
@@ -8,7 +8,7 @@ LinkedIn:
 
 Introduction:
 
-A portfolio projest using dataset from kaggle
+A portfolio project using dataset from kaggle
 
 https://www.kaggle.com/datasets/gregorut/videogamesales
 
@@ -16,21 +16,21 @@ https://www.kaggle.com/datasets/gregorut/videogamesales
 
 <b>Game Sales Report<b/>
 
-Dataset used for this projest with suggested questions.
+Dataset used for this project with suggested questions.
 
 ![alt text](<Data source.png>)
 
-In first step I used Excel to have a look at the data.
+In the first step, I used Excel to have a look at the data.
 
 ![alt text](<Excel data clearpng.png>)
 
 
 
 Dataset loaded in Power Bi to clear and adjust.
-Year Column changed from text to whole number.
+The year column was changed from text to whole numbers.
 ![alt text](<powerbi query.png>)
 
-Added new columns to transform Sales into milions.
+Added new columns to transform Sales into millions.
 ![alt text](<power bi clear.png>)
 
 Questions for this Dataset:
@@ -53,7 +53,7 @@ Call of Duty: Black Ops 2
 
 5.) Which region leads with game sales
 
-6.) What genre gained most sales?
+6.) What genre gained the most sales?
 
 Queries used:
 Question 1
@@ -70,5 +70,5 @@ From vgsales
 Group By Year
 ORDER BY Global_Sales desc;
 ```
-
+Link for Power Bi dashboard
 https://app.powerbi.com/view?r=eyJrIjoiNDA1ZjFmMGUtMTgzZi00YzgyLTkzYmUtOTJmNDI4ODVjODRmIiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9
