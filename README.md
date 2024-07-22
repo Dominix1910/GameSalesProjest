@@ -47,9 +47,18 @@ Questions for this Dataset:
 
 6.) What genre gained most sales?
 
-For first question I used MySQL
-
+Queries used:
+Question 1
+``` SQL
 Select  Name, Global_Sales * 1000000 AS Sales
 From vgsales
 Order by Global_Sales Desc
 Limit 1;
+```
+Question 2
+``` SQL
+Select round(sum(Global_Sales),2), Year
+From vgsales
+Group By Year
+ORDER BY Global_Sales desc;
+```
