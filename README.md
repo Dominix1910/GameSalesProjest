@@ -36,12 +36,20 @@ Added new columns to transform Sales into milions.
 Questions for this Dataset:
 
 1.) Which Title sold the most Worldwide?
+Wii Sports
 
 2.) Which year had the highest Sales?
+2008
 
 3.) Do any consoles seem to specialize in a particular genre?
+DS console leads in Puzzle, Simulation, and Misc genre
+
+PS2 console leads in the Fighting, Racing, and Sports Genre
+
+The other 3 consoles are around the same level with the number of games released by genre.
 
 4.) What titles are popular in one region but flop in another?
+Call of Duty: Black Ops 2
 
 5.) Which region leads with game sales
 
@@ -62,3 +70,5 @@ From vgsales
 Group By Year
 ORDER BY Global_Sales desc;
 ```
+
+<iframe title="games" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNDA1ZjFmMGUtMTgzZi00YzgyLTkzYmUtOTJmNDI4ODVjODRmIiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9" frameborder="0" allowFullScreen="true"></iframe>
