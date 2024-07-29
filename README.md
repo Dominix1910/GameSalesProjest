@@ -91,4 +91,5 @@ Question 4
 
 
 Link for Power Bi dashboard
-https://app.powerbi.com/view?r=eyJrIjoiNDA1ZjFmMGUtMTgzZi00YzgyLTkzYmUtOTJmNDI4ODVjODRmIiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9
+[https://app.powerbi.com/view?r=eyJrIjoiNDA1ZjFmMGUtMTgzZi00YzgyLTkzYmUtOTJmNDI4ODVjODRmIiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9
+](https://app.powerbi.com/reportEmbed?reportId=adbda36b-50e3-4424-82a5-eafccd0af80b&autoAuth=true&ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b)
