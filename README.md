@@ -1,4 +1,4 @@
-This is a Portfolio project  (Work in progress)  
+This is a Portfolio project  
 
 Author: Dominik Scibor
 
