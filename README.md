@@ -52,7 +52,7 @@ Questions for this Dataset:
 Queries used:
 Question 1
 ``` SQL
-Select  Name, Global_Sales * 1000000 AS Sales
+Select  Name, Global_Sales  AS Sales
 From vgsales
 Order by Global_Sales Desc
 Limit 1;
