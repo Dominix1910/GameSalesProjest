@@ -89,6 +89,26 @@ Question 7
 
 ![image](https://github.com/user-attachments/assets/ee86e18e-0d02-42b7-a9d7-ec0a059dd7d1)
 
+#Conclusion
+As we can see, Wii Sports had the most sales, and 2008 year was the most profitable for the gaming industry.
+
+Now we want to take a look at top 5 consoles by sales.
+PS2 console has highest sales of 1.2 billion dollars, so it might be a good choice as this means it has a lot of users.
+
+Also if our client is interested in fighting, racing, or sports genre, this is the best combination as this console releases a lot of this kind of games.
+But if he is interested in Puzzle, simulation or misc genre, DS console is a better choice.
+Any other genre has a similar number of games released so it's up to the developer which console they want to pick.
+Let's take a look at  sales by region
+North America has 54% in sales, Europe 30% and Japan only 16%
+So if Kagggle wants to focus on one market, North America might be the best choice.
+Lastly, let's talk about publishers.
+New game developer need a publisher, and this is not so obvious choice. The top developer by sales is Nintendo, which is not a surprise if we look at the top 5 games with the most sells, which are from this publisher.
+EA has most games released, but it doesn't give them the highest sales.
+What we can get from this? Quality over Quantity is a key for gaming industry.
+
+
+
+
 
 
 Link for Power Bi dashboard
